@@ -1,0 +1,54 @@
+.header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: rgb(23, 23, 29);
+    height: 8em;
+    padding: 1em;
+    box-sizing: border-box;
+    z-index: 1000;
+    
+}
+
+.starPage {
+    position: fixed;
+    left: 75%;
+    top: 4.5em;
+}
+
+.dataPage{
+    position: fixed;
+    left: 15%;
+    top: 4.5em;
+}
+
+.constelationPage{
+    position: fixed;
+    left: 45%;
+    top: 1em;
+}
+
+.logos{
+    width: 2.3em;
+    height: auto;
+}
+
+.spacely{
+    
+    width: 5em;
+    height: auto;
+}
+
+.moon{
+    position: fixed;
+    left: 40%;
+    top: 5.7em;
+}
+
+.image-border-yellow {
+    border: 1px solid yellow;
+    border-radius: 60%;
+    border-style: dashed;
+    margin: 0px;
+  }
