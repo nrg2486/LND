@@ -1,0 +1,16 @@
+.feed-container{
+    background-color: aliceblue;
+    margin-right: 5em;
+    margin-left: 5em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    border-top: 0.5em solid black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-bottom: 0.5em;
+}
+
+.notice-text{
+    margin-bottom: 0.5em;
+}
