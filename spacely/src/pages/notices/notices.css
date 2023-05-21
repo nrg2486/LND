@@ -1,0 +1,37 @@
+.menu{
+margin-top: 20vh;
+font-size: xx-large;
+text-align: center;
+color: rgb(225, 191, 0);
+-webkit-text-stroke: 1px black ;
+font-family: 'Segoe UI';
+border-bottom: 1vh solid rgb(225, 191, 0);
+}
+.notice{
+    margin-top: 2%;
+    margin-left: 20vw; 
+}
+
+.rss-notices{
+    margin-bottom: 8em;
+    margin-top: 3em;
+}
+
+.foto{
+    text-align: center;
+    margin-top: 2em;
+}
+
+.title{
+text-align: center;
+margin: 7vw;
+}
+
+.content{
+text-align: center;
+margin-top: 5vh;
+margin-left: 5vw;
+margin-right: 5vw;
+margin-bottom: 15vh; 
+font-family: monospace;
+}
