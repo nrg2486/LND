@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+
+  <channel>
+    <title>Noticias de Espacio y Estrellas</title>
+    <link></link>
+    <description>Últimas noticias sobre espacio y estrellas</description>
+
+    <item>
+      <title>Descubierta una nueva estrella en nuestra galaxia</title>
+      <link>/noticia1</link>
+      <description>Los astrónomos han descubierto una nueva estrella en nuestra galaxia...</description>
+    </item>
+
+    <item>
+      <title>La NASA anuncia una misión a Júpiter</title>
+      <link>/noticia2</link>
+      <description>La NASA ha revelado planes para una nueva misión a Júpiter...</description>
+    </item>
+
+    <item>
+      <title>Investigadores descubren un agujero negro supermasivo</title>
+      <link>https://www.tu-sitio.com/noticia3</link>
+      <description>Un equipo de investigadores ha encontrado un agujero negro supermasivo en el
+        centro de una galaxia distante...</description>
+    </item>
+
+    <item>
+      <title>La lluvia de estrellas Perseidas alcanza su punto máximo</title>
+      <link>https://www.tu-sitio.com/noticia4</link>
+      <description>Este año, la lluvia de estrellas Perseidas alcanzará su punto máximo el próximo
+        fin de semana...</description>
+    </item>
+
+    <item>
+      <title>Descubren un exoplaneta similar a la Tierra</title>
+      <link>https://www.tu-sitio.com/noticia5</link>
+      <description>Científicos han encontrado un exoplaneta que comparte características similares a
+        las de la Tierra...</description>
+    </item>
+
+    <item>
+      <title>La sonda espacial Voyager 1 alcanza el borde del sistema solar</title>
+      <link>https://www.tu-sitio.com/noticia6</link>
+      <description>Después de décadas en el espacio, la sonda espacial Voyager 1 ha llegado al borde
+        del sistema solar...</description>
+    </item>
+
+    <item>
+      <title>La NASA revela nuevas imágenes de una supernova</title>
+      <link>https://www.tu-sitio.com/noticia7</link>
+      <description>La NASA ha compartido imágenes impresionantes de una supernova capturadas por el
+        telescopio Hubble...</description>
+    </item>
+
+  </channel>
+</rss>
